@@ -1,0 +1,17 @@
+#counter {
+    font-size: 30px;
+    margin-left:15px;
+    margin-bottom: 30px;
+}
+
+#startButton {
+    padding: 8px;
+}
+
+#stopButton {
+    padding: 8px;
+}
+
+#resetButton {
+    padding: 8px;
+}
